@@ -1,0 +1,18 @@
+{
+  "name": "jitt-scaffold",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Bobby Kalaf <bobby.kalaf@gmail.com> (https://www.github.com/bkalaf)",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.15",
+    "@types/node": "^14.14.10",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.4.4",
+    "ts-node": "^9.0.0"
+  }
+}
